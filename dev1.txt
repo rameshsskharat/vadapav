@@ -2,3 +2,4 @@ Hi dev1, Welcome to github
 Now merge in master branch
 Line1-for merging
 Line2-For merging
+code added by dev2
