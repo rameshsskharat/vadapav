@@ -1,6 +1,7 @@
 Hi dev1, Welcome to github
 Adding some garbage code
 Now merge in master branch
+Adding some important code
 Line1-for merging
 Line2-For merging
-Code added by dev1
+code added by dev2
