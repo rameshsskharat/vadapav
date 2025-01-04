@@ -1,1 +1,2 @@
 Hi dev1, Welcome to github
+Now merge in master branch
