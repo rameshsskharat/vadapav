@@ -4,3 +4,4 @@ Now merge in master branch
 Adding some important code
 Line1-for merging
 Line2-For merging
+code added by dev2
